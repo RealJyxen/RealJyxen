@@ -1,6 +1,6 @@
 # ABOUT-ME
 ### ╭──────────────────────────╮
-     ### ✦  RealSunnx ✦ DC DEVELOPER✦
+      ✦  RealSunnx ✦ DC DEVELOPER✦
 ### ╰──────────────────────────╯
 
  Hi Im Sunnx or you can just call me Sunny, im Discord Developer
