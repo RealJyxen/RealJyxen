@@ -3,8 +3,8 @@
      ### ✦  RealSunnx ✦ DC DEVELOPER✦
 ### ╰──────────────────────────╯
 
-> Hi Im Sunnx or you can just call me Sunny, im Discord Developer
-> Im from Czech Republic / Czechia 
+ Hi Im Sunnx or you can just call me Sunny, im Discord Developer
+ Im from Czech Republic / Czechia 
 
 **My nickname in discord is : **realsunnx**
 **➡My bot: SunnyBot**
