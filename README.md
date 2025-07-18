@@ -11,9 +11,9 @@ My nickname in discord is : realsunnx
 ➡Link : https://discord.com/oauth2/authorize?client_id=1379138129591668778&scope=bot%20applications.commands&permissions=0
 ⚠️Reminder : SunnyBot need perms!
 🔧Basic CMDS : 
--help : Shows you more CMDS
-_support : Dm you link to Support Server
--ban(user) : Bans user in Server
+-help : Shows you more CMDS.
+_support : Dm you link to Support Server.
+-ban(user) : Bans user in Server.
 
 ➡ My Discord Servers : Shadow Null, Xenom Community
 ➡Shadow Null Link : https://discord.gg/QwDNNcuC3N
