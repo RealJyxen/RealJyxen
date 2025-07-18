@@ -7,7 +7,7 @@
  Im from Czech Republic / Czechia 
 
 My nickname in discord is : realsunnx
-➡My bot: SunnyBot**
+➡My bot: SunnyBot
 ➡Link : https://discord.com/oauth2/authorize?client_id=1379138129591668778&scope=bot%20applications.commands&permissions=0
 ⚠️Reminder : SunnyBot need perms!
 🔧Basic CMDS : 
