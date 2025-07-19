@@ -1,8 +1,8 @@
 # 🤍 About Me 
 
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- Hi Im Sunnx or you can just call me Sunny, im Discord Developer.
-- Im from Czech Republic / Czechia 
+-Hello im Sunnx or you can just call me Sunny
+- I like  programming, designing and take care of my servers
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 🤖 My Discord Bot / NullUnit
@@ -12,7 +12,18 @@
 - /ban  : Ban user in the server
 - /kick : Kick user from the server
 - /mute : Mute user in the server
+- ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
+# 👩‍💻 Tech Skills 
+- ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
+- Python
+- BDScript
+- ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
+
+# 🔌My Discord Servers
+- ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
+- ➡Shadow Null     : https://discord.gg/QwDNNcuC3N
+- ➡Xenom Community : https://discord.gg/pu4wttCDNE
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 📸 My Socials
@@ -23,11 +34,7 @@
 - 🎵My TikTok : https://www.tiktok.com/@real_sunnx?_t=ZN-8yALhex3LC2&_r=1
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
-# 🔌My Discord Servers
-- ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- ➡Shadow Null     : https://discord.gg/QwDNNcuC3N
-- ➡Xenom Community : https://discord.gg/pu4wttCDNE
-- ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
+
 
 
 
