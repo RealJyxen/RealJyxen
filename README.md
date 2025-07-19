@@ -1,6 +1,6 @@
-## ╭── ⋅ :white_heart: ⋅ ── ✧:white_heart:✧ ── ⋅ :white_heart: ⋅ ──
+## ╭── ⋅ :white_heart: ⋅ ── ✧:white_heart:✧ ── ⋅ ──
 #                       ABOUT ME
-## ╰── ⋅ :white_heart: ⋅ ── ✧:white_heart:✧ ── ⋅ :white_heart: ⋅ ──╯
+## ╰── ⋅ :white_heart: ⋅ ── ✧:white_heart:✧ ── ⋅  ──╯
 
 - Hi Im Sunnx or you can just call me Sunny, im Discord Developer.
 - Im from Czech Republic / Czechia 
