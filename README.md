@@ -6,7 +6,6 @@
 - Hi Im Sunnx or you can just call me Sunny, im Discord Developer.
 - Im from Czech Republic / Czechia 
 
-- My nickname in discord is : realsunnx
 - ➡My bot: NullUnit
 - ➡Link : https://discord.com/oauth2/authorize?client_id=1395932720995237928&permissions=8&integration_type=0&scope=bot
 - 🔧Basic CMDS : 
