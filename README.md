@@ -1,7 +1,7 @@
 # 🤍 About Me 
 
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- Hello im Sunnx or you can just call me Sunny
+- Hello im Jyxen
 - I like  programming, designing and take care of my servers
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
