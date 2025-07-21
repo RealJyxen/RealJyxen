@@ -28,10 +28,8 @@
 
 # 📸 My Socials
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- 🎮My Discord : realsunnx
+- 🎮My Discord : realjyxen
 - 📧My Gmail : realsunnx@gmail.com
-- 🎥My YouTube : https://youtube.com/@realsunnx?si=H4igRwJIdID0gW6k
-- 🎵My TikTok : https://www.tiktok.com/@real_sunnx?_t=ZN-8yALhex3LC2&_r=1
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 
