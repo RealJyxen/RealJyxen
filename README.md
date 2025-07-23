@@ -12,6 +12,7 @@
 - /ban  : Ban user in the server
 - /kick : Kick user from the server
 - /mute : Mute user in the server
+- /hug : Hug someone in the server
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 👩‍💻 Tech Skills 
