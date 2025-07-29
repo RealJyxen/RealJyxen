@@ -15,6 +15,8 @@
 - /hug   : Hug someone in the server
 - /punch : Punch someone in the server
 - /slap  : Slap someone in the server
+- /pat   : Pat someone in the server
+- /8ball : Ask 8ball a question
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 👩‍💻 Tech Skills 
