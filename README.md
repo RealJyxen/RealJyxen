@@ -1,7 +1,7 @@
 # 🤍 About Me 
 
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- Hello im Jyxen
+- Hello im developer Jyxen
 - I like  programming, designing and take care of my servers
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
