@@ -19,6 +19,7 @@
 - /8ball    : Ask 8ball a question
 - /roulette : Start a Russian roulette game
 - /avatar   : Display the avatar of the provided user
+- /info     : Show you info about provided user
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 👩‍💻 Tech Skills 
