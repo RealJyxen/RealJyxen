@@ -8,7 +8,7 @@
 # 🤖 My Discord Bot / NullUnit
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
 - 🔗NullUnit Link : https://discord.com/oauth2/authorize?client_id=1395932720995237928&permissions=8&integration_type=0&scope=bot
-- 🔧Basic Commands:
+- 🔧Commands:
 - /ban      : Ban user in the server
 - /kick     : Kick user from the server
 - /mute     : Mute user in the server
