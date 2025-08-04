@@ -21,6 +21,7 @@
 - /avatar   : Display the avatar of the provided user
 - /info     : Show you info about provided user
 - /reminder : Remind you in time
+- /giveawy  : Create a giveaway(in dev)
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 👩‍💻 Tech Skills 
