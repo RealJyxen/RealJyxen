@@ -20,6 +20,7 @@
 - /roulette : Start a Russian roulette game
 - /avatar   : Display the avatar of the provided user
 - /info     : Show you info about provided user
+- /reminder : Remind you in time
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 👩‍💻 Tech Skills 
