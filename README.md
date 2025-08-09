@@ -14,8 +14,8 @@
 - /kick     : Kick user from the server
 - /mute     : Mute user in the server
 - /sysinfo  : Shows you your system info(OS, CPU, RAM, IP), YOUR DATA IS IN SECRET✅
-- /serverinfo :  Show you info about provided server
-- /info     : Show you info about provided user
+- /serverinfo :  Shows you info about provided server
+- /info     : Shows you info about provided user
 - /hug      : Hug someone in the server
 - /punch    : Punch someone in the server
 - /slap     : Slap someone in the server
