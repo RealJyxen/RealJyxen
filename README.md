@@ -13,6 +13,9 @@
 - /ban      : Ban user in the server
 - /kick     : Kick user from the server
 - /mute     : Mute user in the server
+- /sysinfo  : Shows you your system info(OS, CPU, RAM, IP), YOUR DATA IS IN SECRET✅
+- /serverinfo :  Show you info about provided server
+- /info     : Show you info about provided user
 - /hug      : Hug someone in the server
 - /punch    : Punch someone in the server
 - /slap     : Slap someone in the server
@@ -20,9 +23,9 @@
 - /8ball    : Ask 8ball a question
 - /roulette : Start a Russian roulette game
 - /avatar   : Display the avatar of the provided user
-- /info     : Show you info about provided user
 - /reminder : Remind you in time
-- /giveawy  : Create a giveaway(in dev
+- /giveawy  : Create a giveaway(in dev)
+  
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
 # 👩‍💻 Tech Skills 
