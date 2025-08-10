@@ -23,7 +23,9 @@
 - /roulette : Start a Russian roulette game
 - /avatar   : Display the avatar of the provided user
 - /reminder : Remind you in time
+- /joke     : Tells you a random joke
 - /giveawy  : Create a giveaway(in dev)
+
   
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
 
