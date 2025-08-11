@@ -7,7 +7,7 @@
 
 # 🤖 My Discord Bot / NullUnit
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- 🤖Bot status: offline
+- 🤖Bot status: online
 - 🔗NullUnit Link : https://discord.com/oauth2/authorize?client_id=1395932720995237928&permissions=8&integration_type=0&scope=bot
 - 🔧Commands:
 - /ban      : Ban user in the server
@@ -24,7 +24,7 @@
 - /avatar   : Display the avatar of the provided user
 - /reminder : Remind you in time
 - /joke     : Tells you a random joke
-- /giveawy  : Create a giveaway(in dev)
+- /giveawy  : Create a giveaway
 
   
 - ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯
