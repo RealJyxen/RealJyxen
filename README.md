@@ -7,7 +7,7 @@
 
 # 🤖 My Discord Bot / NullUnit
 - ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮
-- 🤖Bot status: online
+- 🤖Bot status: offline
 - 🔗NullUnit Link : https://discord.com/oauth2/authorize?client_id=1395932720995237928&permissions=8&integration_type=0&scope=bot
 - 🔧Commands:
 - /ban      : Ban user in the server
